@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Soma5356
 - 👀 I’m interested in minekwafft
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 📫 Discord Soma#3954
